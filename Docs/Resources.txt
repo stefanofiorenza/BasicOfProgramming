@@ -1,0 +1,17 @@
+
+
+Es con Unit Test in JS/Labs/UtestInBrowser
+
+Altri esercizi programmazione:
+https://exercism.io/my/tracks
+https://github.com/juanmaguitar/exercises-javascript
+
+https://github.com/stefanofiorenza/Python-programming-exercises
+https://github.com/darkprinx/100-plus-Python-programming-exercises-extended
+https://github.com/stefanofiorenza/exercises-in-programming-style
+https://github.com/stefanofiorenza/100-plus-Python-programming-exercises-extended
+https://github.com/stefanofiorenza/coding-exercises
+https://github.com/stefanofiorenza/Intro-to-Java-Programming
+
+
+https://github.com/mre/the-coding-interview
