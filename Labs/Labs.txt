@@ -1,0 +1,42 @@
+
+
+
+Basic IO:
+
+	>
+
+
+
+Decisions:
+
+
+	> calculator (operation, operand1, operand2)
+	> IsOddNumber (numberToCheck)
+	> IsMultipleOf3(numberToCheck)
+	> 
+	
+
+
+Loops:
+
+	> calculator (operation, operand1, operand2)
+	> 
+	>
+	>
+	>
+
+Functions
+
+
+
+Array
+
+
+
+String:
+
+
+
+Recursion:
+
+

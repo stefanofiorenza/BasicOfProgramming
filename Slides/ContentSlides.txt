@@ -1,0 +1,43 @@
+
+
+
+
+Programming Language and Hardware:
+
+	Processor, RAM, CodeRunning
+	
+	
+Types of Programming Languages:
+
+	Machine Code
+	Assembler
+	High Level Languages
+	Interpreted vc Compiled
+	Virtual Machine
+	
+Language Basics
+
+	Vars and memory
+
+
+Decisions 
+	IF
+	SWITCH
+	
+	
+Loops
+
+
+
+Arrays
+
+
+
+Objects (Structs)
+
+
+Functions
+
+
+	
+
